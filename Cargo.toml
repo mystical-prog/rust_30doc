@@ -10,3 +10,8 @@ edition = "2021"
 [[bin]]
 name = "two_sum"
 path = "src/arrays/two_sum/main.rs"
+
+
+[[bin]]
+name = "find_median_sorted_arrays"
+path = "src/arrays/find_median_sorted_arrays/main.rs"
