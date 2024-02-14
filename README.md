@@ -1,2 +1,2 @@
-# rust_30doc
-Following HackerRank's 30 Days of Code Challenge.
+# Leetcode Problems in Rust
+Sharing my Leetcode solutions in Rust, the solutions are structured in Data Structure wise folders.
