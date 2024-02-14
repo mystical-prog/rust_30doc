@@ -15,3 +15,7 @@ path = "src/arrays/two_sum/main.rs"
 [[bin]]
 name = "find_median_sorted_arrays"
 path = "src/arrays/find_median_sorted_arrays/main.rs"
+
+[[bin]]
+name = "container_with_most_water"
+path = "src/arrays/container_with_most_water/main.rs"
