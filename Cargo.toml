@@ -19,3 +19,11 @@ path = "src/arrays/find_median_sorted_arrays/main.rs"
 [[bin]]
 name = "container_with_most_water"
 path = "src/arrays/container_with_most_water/main.rs"
+
+[[bin]]
+name = "3sum"
+path = "src/arrays/3sum/main.rs"
+
+[[bin]]
+name = "3sum_closest"
+path = "src/arrays/3sum_closest/main.rs"
