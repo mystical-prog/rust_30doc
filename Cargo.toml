@@ -27,3 +27,7 @@ path = "src/arrays/3sum/main.rs"
 [[bin]]
 name = "3sum_closest"
 path = "src/arrays/3sum_closest/main.rs"
+
+[[bin]]
+name = "find_index_first_occurence_string"
+path = "src/arrays/find_index_first_occurence_string/main.rs"
